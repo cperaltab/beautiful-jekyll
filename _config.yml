@@ -19,7 +19,7 @@ author: Ana Carolina Peralta
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "INTRODUCTION"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
