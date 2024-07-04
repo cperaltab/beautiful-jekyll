@@ -19,7 +19,7 @@ author: Ana Carolina Peralta
 ###############################################
 
 navbar-links:
-  Introduction: "INTRODUCTION"
+  Introduction: "aboutme"
   Resources:
     - Rocky Shore sampling: "https://beautifuljekyll.com"
     - Seagrass sampling: "https://www.markdowntutorial.com/"
